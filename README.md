@@ -8,7 +8,7 @@ Soy un programador backend apasionado por el desarrollo de aplicaciones escalabl
 
 ### 🔧 Habilidades Técnicas
 
-- **Lenguajes:** 
+- **Lenguajes:**
   - Java (Spring Boot)
   - PHP (Laravel, Symfony)
   - JavaScript/TypeScript (Node.js)
