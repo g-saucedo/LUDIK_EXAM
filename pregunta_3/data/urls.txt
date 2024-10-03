@@ -1,0 +1,21 @@
+https://www.shoponline.com/product/123
+http://myshop.net/category/sale
+https://noshopsite.com/home.html
+noshopsite.com/home
+https://shopworld.org/page.html
+http://www.bestshop.com/deals/offer.html
+https://shoppingpro.net/special.html
+http://example.com/about.html
+https://another-shop.com/products/new.html
+http://myshop.net/category/sale.html  # Repetida
+http://shopwise.biz/index.html
+https://greatshop.com/products/detail.html
+https://coolshop.io/item.html
+http://myblog.com/contact.html
+http://not-a-shop.com/post.html
+http://www.shopstyle.com/item/789.html
+https://shopnmore.com/sale/summer.html
+shopnmore.com/sale/summer.html
+http://otherdomain.com/contact.html
+https://mystore.com/product/none.html
+mystore.com/product/none.html
