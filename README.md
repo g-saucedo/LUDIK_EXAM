@@ -28,4 +28,10 @@ Soy un programador backend apasionado por el desarrollo de aplicaciones escalabl
   - APIs RESTful
   - Servicios en la nube (AWS)
 
+
+## Consideración al examen
+
+- Instalar y levantar docker mediante el comando `docker-compose up -d` desde la razi del proyecto localizado en la carpeta de docker
+- Seguido de levantar primero la pregunta 1 e iniciar la migracion para que se cree la base de datos
+
 ¡Gracias por tomarte el tiempo de revisar mi perfil! Estoy abierto a nuevas oportunidades y colaboraciones en proyectos desafiantes.
